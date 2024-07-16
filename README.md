@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita1s&label=Profile%20views&color=0e75b6&style=flat" alt="ankita1s" /> </p>
 
-- 💬 Ask me about **Excel, Power Bi, SQL**
+- 💬 Ask me about **Excel, Power Bi, SQL, Python**
 
 - 📫 How to reach me **s.ankita.iitp@gmail.com**
 
